@@ -63,5 +63,7 @@ Desarrollo y diseño de un sitio web para gestión de productos y pedidos con ba
 ## 🏅 Constancias y Reconocimientos
 
 - [CCNA: Introduction to Networks](constancias/ccna-introduction.pdf) – Cisco  
-- [CyberOps Associate](constancias/cyberops.pdf) – Cisco  
+- [CyberOps Associate](constancias/cyberops.pdf) – Cisco
+- [CCNA: Switching, Routing and Wireless Essentials](constancias/ccna-swrowlessentials.pdf) - Cisco
+  
   
