@@ -1,7 +1,7 @@
 
 
 <p align="center">
-Daniel Camacho Navarro<br>
+<span stlye="font-size: 1.5em;"><strong>Daniel Camacho Navarro</strong></span><br>
   <img src="img/daniel.png" alt="Foto de Daniel" width="150">
 </p>
 
