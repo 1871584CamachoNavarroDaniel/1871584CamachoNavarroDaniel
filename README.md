@@ -1,8 +1,8 @@
 
 
 <p align="center">
-<span stlye="font-size: 1.5em;"><strong>Daniel Camacho Navarro</strong></span><br>
-  <img src="img/daniel.png" alt="Foto de Daniel" width="150">
+<span stlye="font-size: 2m;"><strong>Daniel Camacho Navarro</strong></span><br>
+  <img src="img/daniel.png" alt="Foto de Daniel" width="200">
 </p>
 
 **Estudiante de Ingeniería en Tecnología de Software**  
