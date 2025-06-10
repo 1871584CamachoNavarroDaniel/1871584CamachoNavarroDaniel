@@ -1,5 +1,7 @@
 # Daniel Camacho Navarro
 
+![Foto de Daniel](img/daniel.jpg)
+
 **Estudiante de Ingeniería en Tecnología de Software**  
 Enfocado en Desarrollo Web y Redes  
 San Nicolás de los Garza, Nuevo León, México  
