@@ -1,6 +1,8 @@
 # Daniel Camacho Navarro
 
-![Foto de Daniel](img/daniel.png)
+<p align="center">
+  <img src="img/daniel.png" alt="Foto de Daniel" width="150">
+</p>
 
 **Estudiante de Ingeniería en Tecnología de Software**  
 Enfocado en Desarrollo Web y Redes  
