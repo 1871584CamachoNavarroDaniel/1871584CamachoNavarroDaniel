@@ -1,6 +1,7 @@
-# Daniel Camacho Navarro
+
 
 <p align="center">
+Daniel Camacho Navarro
   <img src="img/daniel.png" alt="Foto de Daniel" width="150">
 </p>
 
