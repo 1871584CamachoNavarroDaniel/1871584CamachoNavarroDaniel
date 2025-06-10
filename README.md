@@ -64,13 +64,4 @@ Desarrollo y diseño de un sitio web para gestión de productos y pedidos con ba
 
 - [CCNA: Introduction to Networks](constancias/ccna-introduction.pdf) – Cisco  
 - [CyberOps Associate](constancias/cyberops.pdf) – Cisco  
-<!-- Puedes añadir más enlaces aquí -->
-
----
-
-## 🚀 Repositorio
-
-Este repositorio contiene mi currículum profesional en formato Markdown y HTML para presentación en GitHub Pages.  
-Puedes ver la versión web en:  
-🔗 **[https://tuusuario.github.io/nombre-del-repositorio](https://tuusuario.github.io/nombre-del-repositorio)**  
-_(Recuerda cambiar el nombre del usuario y repositorio)_
+  
