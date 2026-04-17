@@ -74,6 +74,6 @@ Configuración de acceso remoto a servidor local reduciendo la exposición direc
 - [CCNA: Introduction to Networks](constancias/ccna-introduction.pdf) – Cisco  
 - [CyberOps Associate](constancias/cyberops.pdf) – Cisco
 - [CCNA: Switching, Routing and Wireless Essentials](constancias/ccna-swrowlessentials.pdf) - Cisco
-- [Diploma Curso de Inglés 400 Horas](constancias/ingles-curso.pdf) - CAADI FIME
+- [Diploma Curso de Inglés 400 Horas](constancias/CamachoNavarro-DiplomaCAADI.pdf) - CAADI FIME
   
   
