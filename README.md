@@ -15,13 +15,13 @@ San Nicolás de los Garza, Nuevo León, México
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Ingeniero en Tecnología de Software con experiencia en desarrollo full-stack académico, diseño de bases de datos relacionales y configuración de infraestructura básica de red. Enfocado en crear soluciones funcionales y escalables.
 
 ---
 
-## 💡 Aptitudes
+## Aptitudes
 
 - Responsable y comprometido
 - Trabajo en equipo
@@ -30,14 +30,14 @@ Ingeniero en Tecnología de Software con experiencia en desarrollo full-stack ac
 
 ---
 
-## 🌐 Idiomas
+## Idiomas
 
 - Español (nativo)
 - Inglés (intermedio – B1)
 
 ---
 
-## 🎓 Formación y Certificaciones
+## Formación y Certificaciones
 
 - **Ingeniería en Tecnología de Software** – *Proceso de titulación* – Facultad de Ingeniería Mecánica y Eléctrica (FIME)
 - **CCNAV7: Introduction to Networks** – *Agosto 2023* – Cisco Networking Academy
@@ -46,7 +46,7 @@ Ingeniero en Tecnología de Software con experiencia en desarrollo full-stack ac
 - **Diploma en Inglés (400 horas)** – *2024* – FIME CAADI
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Backend:** PHP, LINQ, MySQL, Arquitectura MVC, conocimiento de C# y  Entity Framework Core.
@@ -56,20 +56,20 @@ Ingeniero en Tecnología de Software con experiencia en desarrollo full-stack ac
 
 ---
 
-## 💼 Proyectos Destacados
+## Proyectos Destacados
 
-### 🎓 OBSANO – Desarrollo web institucional
+### OBSANO – Desarrollo web institucional
 Desarrollo full-stack institucional de una plataforma académica sobre salud y nutrición de Oaxaca.
 
-### 🎂 Delissin Cakes – Desarrollo web para pastelería
+### Delissin Cakes – Desarrollo web para pastelería
 Diseño y arquitectura de un Sistema de Gestión de Pedidos y Stock mediante una base de datos relacional y una interfaz intuitiva para la administración de productos en tiempo real.
 
-### 🎒Proyecto Académico -  Despliegue local de una herramienta colaborativa y un juego serio
+### Proyecto Académico -  Despliegue local de una herramienta colaborativa y un juego serio
 Configuración de acceso remoto a servidor local reduciendo la exposición directa mediante túneles cifrados.
 
 ---
 
-## 🏅 Constancias y Reconocimientos
+## Constancias y Reconocimientos
 
 - [CCNA: Introduction to Networks](constancias/ccna-introduction.pdf) – Cisco  
 - [CyberOps Associate](constancias/cyberops.pdf) – Cisco
