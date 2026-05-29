@@ -44,6 +44,7 @@ Ingeniero en Tecnología de Software con experiencia en desarrollo full-stack ac
 - **CyberOps Associate** – *Diciembre 2023* – Cisco Networking Academy
 - **CCNAV7: Switching, Routing, and Wireless Essentials** – *Enero 2024* – Cisco Networking Academy
 - **Diploma en Inglés (400 horas)** – *2024* – FIME CAADI
+- **Verano de Investigación Científica** – *Julio 2025* – FIME UANL
 ---
 
 ## Habilidades Técnicas
@@ -76,5 +77,6 @@ Configuración de acceso remoto a servidor local reduciendo la exposición direc
 - [CCNA: Switching, Routing and Wireless Essentials](constancias/ccna-swrowlessentials.pdf) - Cisco
 - [Diploma Curso de Inglés 400 Horas](constancias/CamachoNavarro-DiplomaCAADI.pdf) - CAADI FIME
 - [Reconocimiento por diseño y desarrollo de la página web OBSANO](constancias/reconocimiento-obsano.pdf) - FIME UANL
+- [Reconocimiento por participación en el Verano de Investigación Científica](constancias/reconocimiento-provericyt.pdf) - FIME UANL
   
   
