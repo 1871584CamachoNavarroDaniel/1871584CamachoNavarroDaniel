@@ -77,6 +77,5 @@ Configuración de acceso remoto a servidor local reduciendo la exposición direc
 - [CCNA: Switching, Routing and Wireless Essentials](constancias/ccna-swrowlessentials.pdf) - Cisco
 - [Diploma Curso de Inglés 400 Horas](constancias/CamachoNavarro-DiplomaCAADI.pdf) - CAADI FIME
 - [Reconocimiento por diseño y desarrollo de la página web OBSANO](constancias/reconocimiento-obsano.pdf) - FIME UANL
-- [Reconocimiento por participación en el Verano de Investigación Científica](constancias/reconocimiento-provericyt.pdf) - FIME UANL
   
   
