@@ -12,7 +12,7 @@ San Nicolás de los Garza, Nuevo León, México
 📧 [Daniel.cn2001@outlook.com](mailto:daniel.cn2001@outlook.com)  
 📞 +52 811 411 2339  
 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-camacho-navarro-2a383b35a)  
-📃 [CV](CV-Daniel-Camacho-Navarro.pdf)
+📃 [CV]("CV/CV-Daniel-Camacho-Navarro.pdf")
 
 ---
 
